@@ -12,3 +12,7 @@ Run terminal in the project directory, then run :
 ### `npm start`
 
 Or you can go [here](https://tokopedia-web-test-yudhistira.herokuapp.com/) for Live Demo of the project.
+
+## Test results :
+
+https://drive.google.com/file/d/1riQ6ZWLtamD68dXMv-gWo7amg0gyWnSt/view
