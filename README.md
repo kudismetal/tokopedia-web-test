@@ -15,4 +15,4 @@ Or you can go [here](https://tokopedia-web-test-yudhistira.herokuapp.com/) for L
 
 ## Test results :
 
-https://drive.google.com/file/d/1riQ6ZWLtamD68dXMv-gWo7amg0gyWnSt
+![image](https://drive.google.com/uc?export=view&id=1riQ6ZWLtamD68dXMv-gWo7amg0gyWnSt)
