@@ -11,6 +11,7 @@ class App extends React.Component {
     this.state = {
       fractions: [],
       rupiahValue: '',
+      numberValue: 0,
       fractionedRupiahValue: [],
       helperText: '',
       isHelperTextEnabled: false
@@ -34,6 +35,8 @@ class App extends React.Component {
 
         let numberValue = Number(stringValue.replace(/\D/g, ''));
         let fractionedValue = [];
+
+        this.setState({ numberValue });
         
         this.state.fractions.forEach(element => {
           if (numberValue - element >= 0) {
@@ -96,6 +99,8 @@ class App extends React.Component {
     if (regExConstants.reRpWithPeriodDelimiter.test(String(input))) {
       return true;
     }
+
+    return false;
   }
 
   render() {
